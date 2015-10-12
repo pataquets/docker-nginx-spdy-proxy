@@ -1,4 +1,4 @@
-FROM pataquets/nginx-tls-proxy
+FROM pataquets/nginx-tls-proxy:1.9.4
 
 RUN \
   mv -v \
